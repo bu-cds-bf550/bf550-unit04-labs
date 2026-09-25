@@ -6,7 +6,7 @@ instructors and TAs in the room. Nothing here is submitted and nothing here is g
 | Lab | Notebook | Meeting |
 |---|---|---|
 | Lab 10 · The mask | `unit-04-1.ipynb` |  |
-| Lab 11 · Keep the cases that match | `unit-04-2.ipynb` |  |
+| Lab 11 · Keep the reads that match | `unit-04-2.ipynb` |  |
 | Lab 12 · Reading drills: masks everywhere | `unit-04-3.ipynb` |  |
 
 ## Run them
